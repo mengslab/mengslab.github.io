@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="760" viewBox="0 0 900 760" fill="none">
+  <rect width="900" height="760" rx="32" fill="#091423"/>
+  <circle cx="227" cy="180" r="112" fill="#0E223A"/>
+  <circle cx="671" cy="176" r="130" fill="#102944"/>
+  <circle cx="452" cy="420" r="180" fill="#0B1C31"/>
+  <circle cx="227" cy="180" r="8" fill="#52F2DA"/>
+  <circle cx="330" cy="252" r="8" fill="#72C8FF"/>
+  <circle cx="451" cy="320" r="8" fill="#52F2DA"/>
+  <circle cx="561" cy="251" r="8" fill="#96A5FF"/>
+  <circle cx="671" cy="176" r="8" fill="#72C8FF"/>
+  <circle cx="450" cy="516" r="8" fill="#52F2DA"/>
+  <path d="M227 180L330 252L451 320L561 251L671 176" stroke="url(#g1)" stroke-width="4"/>
+  <path d="M330 252L450 516M451 320L450 516M561 251L450 516" stroke="url(#g2)" stroke-width="3" opacity="0.9"/>
+  <rect x="147" y="566" width="606" height="72" rx="20" fill="#0E223A" stroke="#183757"/>
+  <text x="450" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#DDEBFF">Multi-omics • lipid biology • metabolic diseases and cancer</text>
+  <defs>
+    <linearGradient id="g1" x1="227" y1="180" x2="671" y2="176" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#52F2DA"/>
+      <stop offset="0.5" stop-color="#72C8FF"/>
+      <stop offset="1" stop-color="#96A5FF"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="330" y1="252" x2="450" y2="516" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#72C8FF"/>
+      <stop offset="1" stop-color="#52F2DA"/>
+    </linearGradient>
+  </defs>
+</svg>

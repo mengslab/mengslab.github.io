@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="620" viewBox="0 0 840 620" fill="none">
+  <rect width="840" height="620" rx="28" fill="#091423"/>
+  <rect x="70" y="90" width="190" height="90" rx="18" fill="#0E223A" stroke="#1E4164"/>
+  <rect x="325" y="90" width="190" height="90" rx="18" fill="#0E223A" stroke="#1E4164"/>
+  <rect x="580" y="90" width="190" height="90" rx="18" fill="#0E223A" stroke="#1E4164"/>
+  <rect x="195" y="325" width="190" height="90" rx="18" fill="#0E223A" stroke="#1E4164"/>
+  <rect x="455" y="325" width="190" height="90" rx="18" fill="#0E223A" stroke="#1E4164"/>
+  <text x="165" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#DDEBFF">Organoids</text>
+  <text x="420" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#DDEBFF">Lipidomics</text>
+  <text x="675" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#DDEBFF">Single-cell omics</text>
+  <text x="290" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#DDEBFF">Bioinformatics</text>
+  <text x="550" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#DDEBFF">Target discovery</text>
+  <path d="M260 135H325M515 135H580M260 180L325 325M580 180L515 325M385 370H455" stroke="url(#flow)" stroke-width="4" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="flow" x1="260" y1="135" x2="580" y2="325" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#52F2DA"/>
+      <stop offset="0.5" stop-color="#72C8FF"/>
+      <stop offset="1" stop-color="#96A5FF"/>
+    </linearGradient>
+  </defs>
+</svg>
